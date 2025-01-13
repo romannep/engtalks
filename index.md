@@ -14,3 +14,8 @@ title: EngTalks
 А это текст, текст, текст.
 А это текст, текст, текст.
 
+
+[Page Learn](./learn.html).
+
+[Page Contact](./contact.html).
+
