@@ -2,7 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-
 blockquote {
     font-size: 0.8em !important;
 }
