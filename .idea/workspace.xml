@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed142fc8-574b-4915-83c6-b4f2312b2ba1" name="Changes" comment="speech">
-      <change afterPath="$PROJECT_DIR$/assets/css/engtalks.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ed142fc8-574b-4915-83c6-b4f2312b2ba1" name="Changes" comment="markup">
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/engtalks.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,7 @@
       <workItem from="1736751884539" duration="972000" />
       <workItem from="1736832002127" duration="1000" />
       <workItem from="1736917493240" duration="602000" />
-      <workItem from="1737003570042" duration="3822000" />
+      <workItem from="1737003570042" duration="4395000" />
     </task>
     <task id="LOCAL-00001" summary="rm actions">
       <option name="closed" value="true" />
@@ -109,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737006812820</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="markup">
+      <option name="closed" value="true" />
+      <created>1737007421413</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737007421413</updated>
+    </task>
+    <task id="LOCAL-00007" summary="markup">
+      <option name="closed" value="true" />
+      <created>1737007474410</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737007474410</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +135,7 @@
     <MESSAGE value="layout check. coder vs engineer" />
     <MESSAGE value="minor" />
     <MESSAGE value="speech" />
-    <option name="LAST_COMMIT_MESSAGE" value="speech" />
+    <MESSAGE value="markup" />
+    <option name="LAST_COMMIT_MESSAGE" value="markup" />
   </component>
 </project>
