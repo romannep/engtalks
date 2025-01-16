@@ -3,5 +3,9 @@
 
 @import "{{ site.theme }}";
 .wtf {
-    font-size: 0.8em !important;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+blockquote {
+    font-size: 0.8em;
 }
