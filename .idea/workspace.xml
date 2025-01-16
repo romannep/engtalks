@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed142fc8-574b-4915-83c6-b4f2312b2ba1" name="Changes" comment="theme">
-      <change afterPath="$PROJECT_DIR$/posts/engineer-vs-coder.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="ed142fc8-574b-4915-83c6-b4f2312b2ba1" name="Changes" comment="layout check. coder vs engineer">
       <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/posts/engineer-vs-coder.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/engineer-vs-coder.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +66,7 @@
       <workItem from="1736751884539" duration="972000" />
       <workItem from="1736832002127" duration="1000" />
       <workItem from="1736917493240" duration="602000" />
-      <workItem from="1737003570042" duration="1359000" />
+      <workItem from="1737003570042" duration="1849000" />
     </task>
     <task id="LOCAL-00001" summary="rm actions">
       <option name="closed" value="true" />
@@ -86,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736752791761</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="layout check. coder vs engineer">
+      <option name="closed" value="true" />
+      <created>1737004963042</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737004963042</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +101,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="rm actions" />
     <MESSAGE value="theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="theme" />
+    <MESSAGE value="layout check. coder vs engineer" />
+    <option name="LAST_COMMIT_MESSAGE" value="layout check. coder vs engineer" />
   </component>
 </project>

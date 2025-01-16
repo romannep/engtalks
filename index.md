@@ -8,4 +8,6 @@ layout: default
 
 [Кодер vs Инженер](/posts/engineer-vs-coder.html)
 
+<hr/>
+
 
