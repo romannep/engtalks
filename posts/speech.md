@@ -64,3 +64,19 @@
 После тренировке на базовых концепциях, стоит объяснить всё то, с чем ты работаешь прямо сейчас.
 В процессе подготовки и корректировки своего рассказа, ты упорядочишь и причешешь лично свое
 понимание самых важных вещей - тех с которыми ты сейчас работаешь.
+
+<script src="https://giscus.app/client.js"
+        data-repo="romannep/engtalks"
+        data-repo-id="R_kgDONoaOOA"
+        data-category="Announcements"
+        data-category-id="DIC_kwDONoaOOM4CmBI9"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="ru"
+        crossorigin="anonymous"
+        async>
+</script>
