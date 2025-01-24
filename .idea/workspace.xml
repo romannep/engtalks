@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed142fc8-574b-4915-83c6-b4f2312b2ba1" name="Changes" comment="workplace base">
-      <change afterPath="$PROJECT_DIR$/posts/workplace/workplace1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/posts/workplace/workplace2.jpg" afterDir="false" />
+    <list default="true" id="ed142fc8-574b-4915-83c6-b4f2312b2ba1" name="Changes" comment="up workplace">
+      <change afterPath="$PROJECT_DIR$/posts/workplace/chair_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/workplace/chair_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/workplace/chair_3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts/workplace.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/workplace.md" afterDir="false" />
     </list>
@@ -73,7 +74,9 @@
       <workItem from="1737087635571" duration="325000" />
       <workItem from="1737087963037" duration="625000" />
       <workItem from="1737607897208" duration="4190000" />
-      <workItem from="1737637204155" duration="1349000" />
+      <workItem from="1737637204155" duration="3899000" />
+      <workItem from="1737720082621" duration="2000" />
+      <workItem from="1737720613370" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="rm actions">
       <option name="closed" value="true" />
@@ -211,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737629192491</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="up workplace">
+      <option name="closed" value="true" />
+      <created>1737639814387</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737639814387</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,6 +237,7 @@
     <MESSAGE value="markup" />
     <MESSAGE value="cleanup" />
     <MESSAGE value="workplace base" />
-    <option name="LAST_COMMIT_MESSAGE" value="workplace base" />
+    <MESSAGE value="up workplace" />
+    <option name="LAST_COMMIT_MESSAGE" value="up workplace" />
   </component>
 </project>
