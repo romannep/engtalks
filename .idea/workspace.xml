@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed142fc8-574b-4915-83c6-b4f2312b2ba1" name="Changes" comment="up index">
+    <list default="true" id="ed142fc8-574b-4915-83c6-b4f2312b2ba1" name="Changes" comment="robocat in progress">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts/robocat.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/robocat.md" afterDir="false" />
     </list>
@@ -80,6 +80,8 @@
       <workItem from="1737732130999" duration="3404000" />
       <workItem from="1739067540601" duration="6535000" />
       <workItem from="1739159249259" duration="3000" />
+      <workItem from="1739376207892" duration="10225000" />
+      <workItem from="1739514706851" duration="1211000" />
     </task>
     <task id="LOCAL-00001" summary="rm actions">
       <option name="closed" value="true" />
@@ -281,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739070275875</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="robocat in progress">
+      <option name="closed" value="true" />
+      <created>1739387319521</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1739387319521</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +308,7 @@
     <MESSAGE value="workplace base" />
     <MESSAGE value="up workplace" />
     <MESSAGE value="up index" />
-    <option name="LAST_COMMIT_MESSAGE" value="up index" />
+    <MESSAGE value="robocat in progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="robocat in progress" />
   </component>
 </project>
