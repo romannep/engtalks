@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed142fc8-574b-4915-83c6-b4f2312b2ba1" name="Changes" comment="robocat in progress">
+    <list default="true" id="ed142fc8-574b-4915-83c6-b4f2312b2ba1" name="Changes" comment="movements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/posts/robocat.md" beforeDir="false" afterPath="$PROJECT_DIR$/posts/robocat.md" afterDir="false" />
     </list>
@@ -82,6 +82,10 @@
       <workItem from="1739159249259" duration="3000" />
       <workItem from="1739376207892" duration="10225000" />
       <workItem from="1739514706851" duration="1211000" />
+      <workItem from="1739980280345" duration="6296000" />
+      <workItem from="1740017933863" duration="527000" />
+      <workItem from="1740035676732" duration="482000" />
+      <workItem from="1740037072623" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="rm actions">
       <option name="closed" value="true" />
@@ -291,7 +295,23 @@
       <option name="project" value="LOCAL" />
       <updated>1739387319521</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="types, bpm">
+      <option name="closed" value="true" />
+      <created>1739983613230</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1739983613230</updated>
+    </task>
+    <task id="LOCAL-00028" summary="movements">
+      <option name="closed" value="true" />
+      <created>1739985383230</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1739985383230</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,6 +329,8 @@
     <MESSAGE value="up workplace" />
     <MESSAGE value="up index" />
     <MESSAGE value="robocat in progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="robocat in progress" />
+    <MESSAGE value="types, bpm" />
+    <MESSAGE value="movements" />
+    <option name="LAST_COMMIT_MESSAGE" value="movements" />
   </component>
 </project>
