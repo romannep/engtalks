@@ -3,13 +3,14 @@
 
 ![эволюция](robocat/evolution.jpg)
 
-Когда я принес домой набор для сборки программируемого робота-квадропода,
-сразу появилось желание сделать с ним что-нибудь интересное. 
-Про Arduino, конечно, я и раньше знал, но на изучение схемотехники
-не было ни ресурсов ни желания. Набор решал этот вопрос - 
-вся аппаратная часть была уже сделана. 
-За час сборка была завершена, и путь к экспериментам стал открыт.
+Иногда, вольные эксперименты в какой то области
+могут принести неожиданный и занятный результат. 
 
+Поиграться с программируемым робот всегда было интересно, 
+но на изучение схемотехники не было ни ресурсов ни желания.
+Поэтому, когда я наткнулся на набор для сборки робота-квадропода,
+я его сразу купил. Вся аппаратная часть в нем была уже сделана.
+На сборку ушло чуть больше часа и путь к эспериментам стал открыт.
 
 ---
 
@@ -122,7 +123,8 @@ void _moveByTime(int index, int a, int timeMs) {
 
 ![какая гадость эта ваша динамическая типизация](robocat/typing.jpg)
 
-https://pikabu.ru/story/kakaya_gadost_yeta_vasha_dinamicheskaya_tipizatsiya_11491316
+[Это стоит посмотреть целиком](https://pikabu.ru/story/kakaya_gadost_yeta_vasha_dinamicheskaya_tipizatsiya_11491316)
+
 
 Мой основной рабочий инструмент - Typescript, но это не то же самое.
 Когда много лет занимаешься разработкой на языках высокого уровня,
@@ -259,7 +261,7 @@ https://pikabu.ru/story/kakaya_gadost_yeta_vasha_dinamicheskaya_tipizatsiya_1149
 Время оценить отчетный танец.
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RMhRv_mIl54?si=gjp4Ljvo0Wqcq9nq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Что дальше
@@ -288,4 +290,4 @@ https://pikabu.ru/story/kakaya_gadost_yeta_vasha_dinamicheskaya_tipizatsiya_1149
 Маловероятно, что когда-нибудь появится время плотно 
 погрузится в новую сферу. Но если вы решите
 реализовать одну из этих идей - я с удовольствием
-или помогу или возьму на себя целиком программную часть.
+или помогу или возьму на себя целиком код.
