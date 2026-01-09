@@ -267,6 +267,8 @@ void _moveByTime(int index, int a, int timeMs) {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RMhRv_mIl54?si=gjp4Ljvo0Wqcq9nq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+
+
 ## Что дальше
 
 Есть идея про начальное обучение программированию детей. Сейчас оно,
